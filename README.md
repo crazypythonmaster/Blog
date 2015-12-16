@@ -13,11 +13,11 @@ This project comes from djangogirls tutorial.
 	ubunto: python3 -m venv myvenv  	
 3.Install django  
 	pip install django==1.8		
-4.Config Database	
-	python manage.py makemigrations blog  
-	python manage.py migrate blog 
-5.Create superuser  
-	(myvenv) ~/djangogirls$ python manage.py createsuperuser  
-6.Run 
-	python manage.py runserver  
+4.Config Database               	
+	python manage.py makemigrations blog            
+	python manage.py migrate blog                   
+5.Create superuser      
+	(myvenv) ~/djangogirls$ python manage.py createsuperuser        
+6.Run                                           
+        python manage.py runserver      
 	
