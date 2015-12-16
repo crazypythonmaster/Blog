@@ -2,7 +2,7 @@ This project comes from djangogirls tutorial.
 ============================================
 
 
-1.Install python
+1.Install python					
 	windows:download from				
 		https://www.python.org/downloads/release/python-343			 
 	ubunto		 
