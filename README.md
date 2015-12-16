@@ -2,8 +2,7 @@ This project comes from djangogirls tutorial.
 ============================================
 
 
-1.Install python	  
-	windows:download from		
+1.Install python																	windows:download from		
 			https://www.python.org/downloads/release/python-343			 
 	ubunto		 
 	    sudo apt-get install python3.4  
